@@ -10,7 +10,7 @@ This repository contains the classic Simon Game implemented in HTML, CSS, and Ja
 * **CSS:** Styles the game interface, including the layout and animated effects for the buttons.
 * **JavaScript:** Manages the game logic, user interactions, and sequence generation.
 ## How to Play
-1. Press 'A' key to start the game.
+1. Press any key to start the game.
 2. Watch the sequence of colors shown.
 3. Repeat the sequence by clicking on the corresponding colored buttons.
 4. Each time you successfully repeat the sequence, the game progresses to the next level with an additional step in the sequence.
